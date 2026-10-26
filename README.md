@@ -96,3 +96,7 @@ Write to a Docker volume rather than straight to the USB drive: on macOS, Docker
 Answers come from a local model reading what the search finds. It is told to answer only from those passages and to cite them, but it can still miss or misread things. For anything that matters, open the cited article and check.
 
 The library content is not in this repository. Each library carries its own licence (mostly CC BY-SA, public domain or the Open Government Licence).
+
+## Licence
+
+The code is released under the [MIT Licence](LICENSE). The library content and models it downloads keep their own licences.
